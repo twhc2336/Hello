@@ -1,4 +1,2 @@
-# Hello
-My First project on GitHub  !
-
-This is frist branch on GitHub ~
+# Hello - 
+My branch on GitHub  !
